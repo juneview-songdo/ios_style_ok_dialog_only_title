@@ -1,7 +1,7 @@
 name: ios_style_ok_dialog_only_title
-description: "Description here"
+description: "Ios style ok dialog only title."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/ios_style_ok_dialog_only_title
 
 version: 1.0.0+1
 
